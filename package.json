@@ -1,0 +1,28 @@
+{
+  "name": "codex-pet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local desktop pet driven by Codex agent session events.",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "mock": "electron . --mock",
+    "voice": "electron . --voice",
+    "screenshot": "node scripts/screenshots.js",
+    "test": "node --test tests/*.test.js",
+    "voice:model": "powershell -ExecutionPolicy Bypass -File scripts/fetch-kws-model.ps1",
+    "voice:selftest": "node scripts/voice-selftest.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "electron": "^45.4.1"
+  },
+  "optionalDependencies": {
+    "node-cpal": "^1.0.0",
+    "sherpa-onnx-node": "^2.0.2"
+  }
+}

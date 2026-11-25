@@ -1,0 +1,687 @@
+{
+  "manifest": "assets/characters/zenbot/rig/manifest.json",
+  "partsCount": 18,
+  "expressionsCount": 19,
+  "motionsCount": 18,
+  "deformersCount": 10,
+  "composite": {
+    "unionPixels": 917415,
+    "differingPixelsGt12": 16858,
+    "differingFraction": 0.018376,
+    "meanRgbDiffOnUnion": 0.7017
+  },
+  "outputs": {
+    "partsOverview": "docs/zenbot/rig/art/parts-overview.png",
+    "expressionsOverview": "docs/zenbot/rig/art/expressions-overview.png",
+    "composeComparison": "docs/zenbot/rig/art/compose-comparison.png"
+  },
+  "parts": [
+    {
+      "path": "assets/characters/zenbot/rig/parts/hair-back.png",
+      "size": [
+        1089,
+        1131
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        1089,
+        1131
+      ],
+      "nontransparent_pixels": 851916,
+      "nontransparent_fraction": 0.691682,
+      "sha256": "2db09edd4a6d698841b8b0c3e5629bad227cc2407474607e25374427edb008da",
+      "id": "hair_back",
+      "parent": "hair_back",
+      "z": 10
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/leg-l.png",
+      "size": [
+        127,
+        218
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        127,
+        218
+      ],
+      "nontransparent_pixels": 22825,
+      "nontransparent_fraction": 0.824424,
+      "sha256": "b5866e0337858ef8c3374d331a42fc298ba740affa8ad07873a3813475ca5390",
+      "id": "leg_l",
+      "parent": "leg_l",
+      "z": 20
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/leg-r.png",
+      "size": [
+        119,
+        218
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        119,
+        218
+      ],
+      "nontransparent_pixels": 21604,
+      "nontransparent_fraction": 0.832781,
+      "sha256": "f5d22088d99b8a496e33bbb147bf409da9eae31cc7fb8b377fee4c0393529b03",
+      "id": "leg_r",
+      "parent": "leg_r",
+      "z": 20
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/shoe-l.png",
+      "size": [
+        183,
+        198
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        183,
+        198
+      ],
+      "nontransparent_pixels": 28150,
+      "nontransparent_fraction": 0.776895,
+      "sha256": "7f54d00a4331f67da8c1c84d8426a29c6614e63dcc1d10dbbea67e9f51587ee0",
+      "id": "shoe_l",
+      "parent": "leg_l",
+      "z": 22
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/shoe-r.png",
+      "size": [
+        169,
+        186
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        169,
+        186
+      ],
+      "nontransparent_pixels": 25022,
+      "nontransparent_fraction": 0.796017,
+      "sha256": "7b8c1a1d7ca9e97aa8b94d0bfce75af6a627cc17ea3a5f65faa2f69072992125",
+      "id": "shoe_r",
+      "parent": "leg_r",
+      "z": 22
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/skirt-back.png",
+      "size": [
+        414,
+        223
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        414,
+        223
+      ],
+      "nontransparent_pixels": 66710,
+      "nontransparent_fraction": 0.72258,
+      "sha256": "dd33c64f879be90e0572bd998766537a4666ac75d0f937b6696d4e6502da2dc7",
+      "id": "skirt_back",
+      "parent": "skirt",
+      "z": 28
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/torso.png",
+      "size": [
+        301,
+        382
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        301,
+        382
+      ],
+      "nontransparent_pixels": 85224,
+      "nontransparent_fraction": 0.741194,
+      "sha256": "0af5045b9ca91e3f2e8cf0a889359fca74bd35b3c74a856994c9e28ca65a5dce",
+      "id": "torso",
+      "parent": "chest",
+      "z": 36
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/skirt-front.png",
+      "size": [
+        414,
+        223
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        414,
+        223
+      ],
+      "nontransparent_pixels": 66710,
+      "nontransparent_fraction": 0.72258,
+      "sha256": "755bb9ead16fd4c3a1abe77e89f1feee74335a793d58b2291d658ea7becfca2a",
+      "id": "skirt_front",
+      "parent": "skirt",
+      "z": 40
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/jacket-front.png",
+      "size": [
+        300,
+        277
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        300,
+        277
+      ],
+      "nontransparent_pixels": 43128,
+      "nontransparent_fraction": 0.518989,
+      "sha256": "c2a801bd0b69eaf592355d155a25533a502d45b8673b44f45973fb02d26dfb8b",
+      "id": "jacket_front",
+      "parent": "chest",
+      "z": 44
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/badge.png",
+      "size": [
+        102,
+        64
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        102,
+        64
+      ],
+      "nontransparent_pixels": 6528,
+      "nontransparent_fraction": 1.0,
+      "sha256": "086d889d4fbd141680a7fe41b69d8ea0f31e2d654e33ebd7d33a6faa8ed63b11",
+      "id": "badge",
+      "parent": "chest",
+      "z": 46
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/arm-l.png",
+      "size": [
+        181,
+        261
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        181,
+        261
+      ],
+      "nontransparent_pixels": 24509,
+      "nontransparent_fraction": 0.518808,
+      "sha256": "54aa92d8d2e9903c002abe0dbb6fa9776011aa9eed12d2492c26fba41bf05a56",
+      "id": "arm_l",
+      "parent": "arm_l",
+      "z": 50
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/arm-r.png",
+      "size": [
+        127,
+        248
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        127,
+        248
+      ],
+      "nontransparent_pixels": 14550,
+      "nontransparent_fraction": 0.461963,
+      "sha256": "223934b91601ba3349d3e8e57b61a58a02227365792b68c3dfdc086de8acaa52",
+      "id": "arm_r",
+      "parent": "arm_r",
+      "z": 50
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/hand-l.png",
+      "size": [
+        97,
+        69
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        97,
+        69
+      ],
+      "nontransparent_pixels": 4319,
+      "nontransparent_fraction": 0.645301,
+      "sha256": "f1923e92fcc09256ac72286d4d9722a903f1cb125b844dc6124d58144e5c8b27",
+      "id": "hand_l",
+      "parent": "arm_l",
+      "z": 54
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/hand-r.png",
+      "size": [
+        66,
+        58
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        66,
+        58
+      ],
+      "nontransparent_pixels": 2589,
+      "nontransparent_fraction": 0.676332,
+      "sha256": "ee344a106ce7fd5786782b86bda060e4d88b303bd922726ec8044c4275d3ba0a",
+      "id": "hand_r",
+      "parent": "arm_r",
+      "z": 54
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/face-base.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "afb0a860cbbee7affbaf18000f12afdcf6a15194d6a2e28cfa2f3dbdb0309da7",
+      "id": "face_base",
+      "parent": "head",
+      "z": 60
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/hair-front.png",
+      "size": [
+        513,
+        299
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        513,
+        299
+      ],
+      "nontransparent_pixels": 37512,
+      "nontransparent_fraction": 0.244558,
+      "sha256": "4598fe7dbe1fd7b789d665457a03e28fd5d8e372998d3142cc7eb2c551c29a66",
+      "id": "hair_front",
+      "parent": "head",
+      "z": 62
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/headphones.png",
+      "size": [
+        232,
+        104
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        232,
+        104
+      ],
+      "nontransparent_pixels": 18307,
+      "nontransparent_fraction": 0.758745,
+      "sha256": "c460bb3f3f7cdfe4e8a337d4f5fbd73fafe1a362b79387ccec23917480f6b3ff",
+      "id": "headphones",
+      "parent": "head",
+      "z": 64
+    },
+    {
+      "path": "assets/characters/zenbot/rig/parts/hair-ornament.png",
+      "size": [
+        617,
+        378
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        617,
+        378
+      ],
+      "nontransparent_pixels": 31694,
+      "nontransparent_fraction": 0.135894,
+      "sha256": "c58cfcbe1ae503fdc10f923f11a2abd1218399ac3fd04242f2406d520d1c3f08",
+      "id": "hair_ornament",
+      "parent": "head",
+      "z": 66
+    }
+  ],
+  "expressions": [
+    {
+      "path": "assets/characters/zenbot/rig/expressions/neutral.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "afb0a860cbbee7affbaf18000f12afdcf6a15194d6a2e28cfa2f3dbdb0309da7",
+      "id": "neutral"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/happy.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "4a02d6c8d65b09666dab3ebae0106052895528e6baa636748bc1865bd4349cf4",
+      "id": "happy"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/wink.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "e114cb044ecd0206e426ff2be018d5f9fb6d44361b46c70325e5f14b20e2f36f",
+      "id": "wink"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/love.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "787ef673e19ae2bcc7aeabcf94db27fe3d969450992c584ee6c42786d901746a",
+      "id": "love"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/shy.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "34463ae4bb6f89a3a2e0e4fce769dd967cc269bcf02069efece76b4e307669f8",
+      "id": "shy"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/surprised.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "707b7a77c4c8a441794521f489e1d12013432666287477cd2de18f6f655e83af",
+      "id": "surprised"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/angry.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "23c61be17c707ea92f26e69aae0e785d3ae0dfa433f64fe02d8625fdfe962abd",
+      "id": "angry"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/sad.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "429d752cb78e02d0a0a99e228d03bd544ecd7a989799f5c63a9b2c9926d1ef3a",
+      "id": "sad"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/sleepy.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "8d8f5c821b645709842317db2fb9192db463872116c9e9d3de08abf798c4d102",
+      "id": "sleepy"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/thinking.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "bd563271724c5fee956b1f648fe29c4d330155c9bc64702a798e157b3360144a",
+      "id": "thinking"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/smug.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "f7a434665847b5d364258693f65b456b7eaecfb4bd764419b4d494a3fe54cea8",
+      "id": "smug"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/pout.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "81f8531a2ac2b6c533fe350a08a1f1d8b1a7768e3db33482a8744624ac8000db",
+      "id": "pout"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/worried.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "8b09e6614fea6763962c953aa632370324c0293707718f910dcc08b6940e1ce7",
+      "id": "worried"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/determined.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "655bed0e9bbff51bb21841ed3ba4e32c9c920c2d4e70a7c384108101c1222086",
+      "id": "determined"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/flustered.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "4b023febf42af13deb47b23b5ea8311f165086b910dc8bba51521023514e10fc",
+      "id": "flustered"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/scared.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "144bb8e88e9d069575d35bd20cd82a2f559ca658378dcc8da687f86e47072121",
+      "id": "scared"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/excited.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "ddac8a2e0ac8e5f233b00f6bfa05241bf50c6ebb708e6c56b8bdae8330871a23",
+      "id": "excited"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/cry.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "e9de3f1948b7bb08f14be9f39d72f3f38e8208ed1d1151c65b3bff65732b59ee",
+      "id": "cry"
+    },
+    {
+      "path": "assets/characters/zenbot/rig/expressions/confused.png",
+      "size": [
+        449,
+        613
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        449,
+        613
+      ],
+      "nontransparent_pixels": 212204,
+      "nontransparent_fraction": 0.770986,
+      "sha256": "1e883bb774e442a85e73f29c8edbd5dd2986e3c02ecefafa16a5a8f2c0700ffd",
+      "id": "confused"
+    }
+  ]
+}

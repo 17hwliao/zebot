@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "xingyin",
+  "name": "星音",
+  "license": "local-user-owned",
+  "sourceCanvas": [1086, 1448],
+  "defaultSkin": "muse",
+  "drawing": {
+    "logoHeight": 252,
+    "centerX": 128,
+    "feetY": 256
+  },
+  "defaults": {
+    "bubbleAnchor": [128, -12],
+    "hit": [128, 140, 96],
+    "extent": [34, 4, 222, 252],
+    "accent": "#69D9FF"
+  },
+  "skins": [
+    {
+      "id": "muse",
+      "label": "星音",
+      "accent": "#69D9FF",
+      "assets": {
+        "idle": {
+          "file": "zenix-muse.png",
+          "crop": [0, 0, 1086, 1448]
+        },
+        "blink": {
+          "file": "zenix-muse-blink.png",
+          "crop": [0, 0, 1086, 1448]
+        },
+        "listening": {
+          "file": "zenix-muse-listening.png",
+          "crop": [0, 0, 1086, 1448]
+        },
+        "shy": {
+          "file": "zenix-muse-shy.png",
+          "crop": [0, 0, 1086, 1448]
+        },
+        "speakingClosed": {
+          "file": "zenix-muse-speaking-closed.png",
+          "crop": [0, 0, 1086, 1448]
+        }
+      }
+    },
+    {
+      "id": "amber-scholar",
+      "label": "琥珀学者",
+      "accent": "#E88932",
+      "assets": {
+        "idle": {
+          "file": "amber-scholar.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "azure-fan",
+      "label": "青扇",
+      "accent": "#4E8CFF",
+      "assets": {
+        "idle": {
+          "file": "azure-fan.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "ink-fox",
+      "label": "墨狐",
+      "accent": "#7896D4",
+      "assets": {
+        "idle": {
+          "file": "ink-fox.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "ivory-dragon",
+      "label": "象牙龙",
+      "accent": "#C7B5FF",
+      "assets": {
+        "idle": {
+          "file": "ivory-dragon.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "moon-piano",
+      "label": "月琴",
+      "accent": "#98AEFF",
+      "assets": {
+        "idle": {
+          "file": "moon-piano.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "noir-gold",
+      "label": "夜金",
+      "accent": "#E8BB55",
+      "assets": {
+        "idle": {
+          "file": "noir-gold.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "ocean-maid",
+      "label": "海之女仆",
+      "accent": "#2C8FBA",
+      "assets": {
+        "idle": {
+          "file": "ocean-maid.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    },
+    {
+      "id": "violet-stars",
+      "label": "紫星",
+      "accent": "#B76CFF",
+      "assets": {
+        "idle": {
+          "file": "violet-stars.png",
+          "crop": [0, 0, 543, 724]
+        }
+      }
+    }
+  ],
+  "assetChecksums": {
+    "amber-scholar.png": "7346540967BFFE45B6A06705F49835973CD994E05D431823B5F17C9C9004D928",
+    "azure-fan.png": "219BC3C540D12047BBDC4A7D7995F62371756FAA021C65F4135B3482488D6F4A",
+    "ink-fox.png": "5545F788DBFAC575DE84ED3CD5D8C20B5F4EC610FA2FB70D7DF96FD7795A399B",
+    "ivory-dragon.png": "E31A073D7A7DA931451C528EF7ED0AE2A2FDF3DA9889CD4AD1DEC52DAC099FAA",
+    "moon-piano.png": "89F79EF9337363BD3981F246CF54B8A9FF4E9F0E8314980E53D2C4FE01529F5F",
+    "noir-gold.png": "BFC3FD91FA76B68FCA0F4886DA0790EAF407C500C6F728B394604CC4A03FD7E4",
+    "ocean-maid.png": "77069642AC1F1168FFE2A30ED12837CD1AD98927FEA928A33EF9AF8A5EB489AA",
+    "violet-stars.png": "3F01A7DB757A363049416931D188CA465F44A7633E3B9B30DDC13CE5F67CFD23",
+    "zenix-muse-blink.png": "FA253D2EF6C89E23AD255A1AF652941FA9F7C52AB91A998E981156F8EF8E3AAD",
+    "zenix-muse-listening.png": "F35A00EAB651C386065E08F32BF24EF71D2053E4DBC7DCCD1BABEC9EF98A692F",
+    "zenix-muse-shy.png": "B200EF0B33C4B6411895D3C5B97AC8795DFBB79C03A4D19496180D1F6B651F29",
+    "zenix-muse-speaking-closed.png": "53EC9ADA101008CEC2B73473D6FA714B0835F3775292E7B018B2688077B1B183",
+    "zenix-muse.png": "42025429982B5171395512468F9147AA563BD96F0090F537CE515960C7A4EFC4"
+  },
+  "notes": "Local user-owned Xingyin assets. The eight outfit PNGs are 2x2 atlases; only the top-left idle cell is exposed through crop. muse files are full-frame portraits."
+}

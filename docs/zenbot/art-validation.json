@@ -1,0 +1,1388 @@
+{
+  "groups": {
+    "expressions": {
+      "expected": 19,
+      "checked": 19,
+      "unexpected_pngs": [],
+      "files": [
+        {
+          "path": "assets/characters/zenbot/expressions/neutral.png",
+          "sha256": "4184b959a41a5ff2d8dbb8a67f0b8e6216c4c49f857879b58a967e54a6db0e68",
+          "mode": "RGBA",
+          "size": [
+            1601,
+            2021
+          ],
+          "alpha_bbox": [
+            24,
+            24,
+            1577,
+            2009
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.424165,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 0,
+          "alpha_at_least_128_bbox": [
+            24,
+            24,
+            1577,
+            2009
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/happy.png",
+          "sha256": "64decd66d45c09ea0574500c64bc022cdd3f64baeb371be973fb6a4e14ab5c3e",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            12,
+            1104,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.412184,
+          "nontransparent_edge_pixels": {
+            "left": 12,
+            "right": 0,
+            "top": 0,
+            "bottom": 22
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            17,
+            16,
+            1101,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/wink.png",
+          "sha256": "6fa9ddb206aaa527d50bcc06e6772d75cf98d7266eeb9887e19a90b3e8f790bd",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            15,
+            13,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.417961,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 78
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            18,
+            16,
+            1100,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/love.png",
+          "sha256": "fca4e896760b3ff39c36de1b527265ce2a3d08eb1c9b58180dfe776dc6223cf8",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            12,
+            13,
+            1116,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.398139,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 73
+          },
+          "edge_alpha_max": 3,
+          "alpha_at_least_128_bbox": [
+            16,
+            16,
+            1103,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/shy.png",
+          "sha256": "fdb0dc1cf2c726f4e5ad08a69134d9349dfe5a7c4924b239541c0e25772e1b1d",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            16,
+            10,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.413093,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 66
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            20,
+            15,
+            1100,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/surprised.png",
+          "sha256": "78d65b2321188bb16eb541d47fb0f38371cc6e4e9102b6a76b62aceabac2afb4",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            0,
+            1108,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.402446,
+          "nontransparent_edge_pixels": {
+            "left": 13,
+            "right": 0,
+            "top": 49,
+            "bottom": 58
+          },
+          "edge_alpha_max": 6,
+          "alpha_at_least_128_bbox": [
+            17,
+            9,
+            1104,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/angry.png",
+          "sha256": "1a263834cec0f8cd6252e986dc54cb55ac5b2253d55ebbe2175bdb9083cbfee8",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            17,
+            13,
+            1102,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.416448,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 60
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            20,
+            16,
+            1099,
+            1399
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/sad.png",
+          "sha256": "7748cd34cda0585ea15e1579a736aae83c51a79e6a466cdd18049a487717dbb9",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            14,
+            14,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.419451,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 76
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            17,
+            17,
+            1100,
+            1399
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/sleepy.png",
+          "sha256": "ddf951beeac64d3543f30409405b41f1832671b196b7c97d419193c9f4353641",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            14,
+            14,
+            1102,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.414867,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 59
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            17,
+            17,
+            1099,
+            1399
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/thinking.png",
+          "sha256": "d6aba50ac0a857a6ddaecbaa6504edd571a9767053a8f23609b2e113cf41ba0c",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            12,
+            1097,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.423228,
+          "nontransparent_edge_pixels": {
+            "left": 10,
+            "right": 0,
+            "top": 0,
+            "bottom": 55
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            36,
+            14,
+            1089,
+            1399
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/smug.png",
+          "sha256": "aaf7731bea6d8cb39cc6b1eecdcf5d73637f7c778d6e233924f0a30769909cbf",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            12,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.40986,
+          "nontransparent_edge_pixels": {
+            "left": 15,
+            "right": 0,
+            "top": 0,
+            "bottom": 79
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            18,
+            16,
+            1100,
+            1401
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/pout.png",
+          "sha256": "1e5dda473f1cb53819a35fcc77a952f7a549f91a3722435d5f8b98d3ad821495",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            14,
+            8,
+            1105,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.416067,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 86
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            18,
+            13,
+            1102,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/worried.png",
+          "sha256": "67fb40c6d570f5a2609532a45f9cf43fdec7a5eee83f5cfca02629a70dfded2e",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            14,
+            14,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.419152,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 54
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            19,
+            16,
+            1100,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/determined.png",
+          "sha256": "1aa67696b945defd28e40c78d1cbbec60aa9bd8bf8b7d5f9f336ee50979ee704",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            15,
+            14,
+            1107,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.417962,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 70
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            18,
+            16,
+            1103,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/flustered.png",
+          "sha256": "3e44896314c6c8c82b63088bc4b2c100bc6af50c731409691991f85371222290",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            13,
+            13,
+            1104,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.406702,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 71
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            16,
+            16,
+            1101,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/scared.png",
+          "sha256": "30f2bdbf35f9d378555a7eb33fb8016e32e05ea70437114a25e0a26112583f95",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            14,
+            0,
+            1101,
+            1398
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.417438,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 2,
+            "bottom": 0
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            17,
+            12,
+            1097,
+            1395
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/excited.png",
+          "sha256": "bfe6221ac25010a740aea505cce096d7955c9e4c86658854ab056a4f965fa066",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            16,
+            14,
+            1104,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.414116,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 60
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            19,
+            16,
+            1101,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/cry.png",
+          "sha256": "11f89c4c03e7ae70c89414a279688fe29d6ad0e0627be568a5e94e0c111777ef",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            12,
+            1108,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.411404,
+          "nontransparent_edge_pixels": {
+            "left": 28,
+            "right": 0,
+            "top": 0,
+            "bottom": 68
+          },
+          "edge_alpha_max": 3,
+          "alpha_at_least_128_bbox": [
+            14,
+            15,
+            1104,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/expressions/confused.png",
+          "sha256": "6f41b62e1248763ffa4300aa408e96fd55b4697ef3538c541e7ef49e4417e3d2",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            31,
+            0,
+            1085,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.491402,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 92,
+            "bottom": 41
+          },
+          "edge_alpha_max": 8,
+          "alpha_at_least_128_bbox": [
+            67,
+            12,
+            1057,
+            1397
+          ]
+        }
+      ]
+    },
+    "motions": {
+      "expected": 18,
+      "checked": 18,
+      "unexpected_pngs": [],
+      "files": [
+        {
+          "path": "assets/characters/zenbot/motions/stand.png",
+          "sha256": "d4d17952637467ce34a1bca1f75d4f8566dc5cb135f85e85142ebf597da7809c",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            14,
+            1116,
+            1397
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.421652,
+          "nontransparent_edge_pixels": {
+            "left": 5,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            18,
+            17,
+            1103,
+            1393
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/jump.png",
+          "sha256": "525697caee66408b3288a84fb30efa7abed148417d1e1315dee095ca2020fbe3",
+          "mode": "RGBA",
+          "size": [
+            1122,
+            1402
+          ],
+          "alpha_bbox": [
+            11,
+            15,
+            1106,
+            1402
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.449642,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 7
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            15,
+            18,
+            1101,
+            1268
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/hop.png",
+          "sha256": "67835293da9c692fa13925107e60edf58b84f2680358668da65a478caff9469a",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            2,
+            33,
+            1097,
+            1379
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.645426,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 0,
+          "alpha_at_least_128_bbox": [
+            127,
+            145,
+            989,
+            1163
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/look.png",
+          "sha256": "39b2f18bc87a0fae649e34eafa74faa4bf1a83c6da4dff7dc682c07c9c21df98",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            47,
+            1081,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.508248,
+          "nontransparent_edge_pixels": {
+            "left": 4,
+            "right": 0,
+            "top": 0,
+            "bottom": 29
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            62,
+            87,
+            1052,
+            1349
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/turn.png",
+          "sha256": "95fb7f10ddae2bd0ee0d3eff7057f7f5b8d4a2270085f140b22f83addf360986",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1408
+          ],
+          "alpha_bbox": [
+            33,
+            26,
+            1087,
+            1370
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.534061,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 0,
+          "alpha_at_least_128_bbox": [
+            42,
+            29,
+            978,
+            1360
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/nod.png",
+          "sha256": "34dfd372fe81fef8a3749ecfcaa13064ebce1a730fa62c106313f93a345ffa7b",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            71,
+            1103,
+            1362
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.493605,
+          "nontransparent_edge_pixels": {
+            "left": 4,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            52,
+            79,
+            1067,
+            1359
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/shake.png",
+          "sha256": "bd0526a26fb6ee2c8b510060df368960ffdab2dc33b7222dc4ab56a5fa54a85c",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            17,
+            1103,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.484336,
+          "nontransparent_edge_pixels": {
+            "left": 7,
+            "right": 0,
+            "top": 0,
+            "bottom": 24
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            65,
+            98,
+            1050,
+            1358
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/spin.png",
+          "sha256": "4186c405f9df1cbb9a2ded2d9b70e5ea46e3c509757ec4a6b4141a4220212a16",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            8,
+            1112,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.454988,
+          "nontransparent_edge_pixels": {
+            "left": 37,
+            "right": 0,
+            "top": 0,
+            "bottom": 7
+          },
+          "edge_alpha_max": 3,
+          "alpha_at_least_128_bbox": [
+            7,
+            11,
+            1108,
+            1397
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/sit.png",
+          "sha256": "079e47b00cd515879536f527b1f7ad83cd23783ff36c82f0e87e1c545eb3b2ed",
+          "mode": "RGBA",
+          "size": [
+            1199,
+            1312
+          ],
+          "alpha_bbox": [
+            0,
+            12,
+            1199,
+            1312
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.353027,
+          "nontransparent_edge_pixels": {
+            "left": 20,
+            "right": 21,
+            "top": 0,
+            "bottom": 31
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            8,
+            15,
+            1192,
+            1301
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/sleep.png",
+          "sha256": "b8058134f23cf9b37fb7bc8e71d5faeb022b5da3eb3080ecbef17d9cc01648e3",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            21,
+            1111,
+            1369
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.365089,
+          "nontransparent_edge_pixels": {
+            "left": 53,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            8,
+            24,
+            1105,
+            1362
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/dizzy.png",
+          "sha256": "b1ff403d55bbaed0c40dc7d82df903077b37d8dbd46319b88f3d144044c5e332",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            0,
+            1091,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.464864,
+          "nontransparent_edge_pixels": {
+            "left": 18,
+            "right": 0,
+            "top": 39,
+            "bottom": 86
+          },
+          "edge_alpha_max": 5,
+          "alpha_at_least_128_bbox": [
+            39,
+            8,
+            1087,
+            1406
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/walk.png",
+          "sha256": "adeb23d41f52aa09ca156023aa74220b46f40374c42467776e2314323ad1911e",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            14,
+            1101,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.419351,
+          "nontransparent_edge_pixels": {
+            "left": 22,
+            "right": 0,
+            "top": 0,
+            "bottom": 7
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            19,
+            18,
+            1082,
+            1390
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/run.png",
+          "sha256": "5b166fab5d949828ea8e5141e94e0d547ef7eb7ce29e3e0c7227d58c35005a04",
+          "mode": "RGBA",
+          "size": [
+            1214,
+            1296
+          ],
+          "alpha_bbox": [
+            0,
+            9,
+            1208,
+            1282
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.469169,
+          "nontransparent_edge_pixels": {
+            "left": 49,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            11,
+            12,
+            1192,
+            1279
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/wave.png",
+          "sha256": "31f2c35bcc97945e1715e6feb722775da2710c710486fe4c59246be587f23c6f",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            0,
+            2,
+            1107,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.413828,
+          "nontransparent_edge_pixels": {
+            "left": 5,
+            "right": 0,
+            "top": 0,
+            "bottom": 55
+          },
+          "edge_alpha_max": 2,
+          "alpha_at_least_128_bbox": [
+            17,
+            13,
+            1103,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/bow.png",
+          "sha256": "7e20753b731f50e7fcc44ec8926629911bd8e9d15c8a33efb4ae23f31e75614e",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            23,
+            5,
+            1095,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.443218,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 4
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            27,
+            18,
+            1088,
+            1395
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/shiver.png",
+          "sha256": "383b3442f121e223434ff384923d9d5aedf1bb7429de454e1273b71241f394ec",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            25,
+            16,
+            1075,
+            1409
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.440727,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 70
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            54,
+            19,
+            1072,
+            1400
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/flap.png",
+          "sha256": "3ae8e72bad35359f60965ffebbcc1dcb00c2a84ca43e6bad7f58c3d4a5f147ac",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1408
+          ],
+          "alpha_bbox": [
+            0,
+            25,
+            1095,
+            1370
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.612933,
+          "nontransparent_edge_pixels": {
+            "left": 2,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 1,
+          "alpha_at_least_128_bbox": [
+            71,
+            56,
+            1054,
+            1144
+          ]
+        },
+        {
+          "path": "assets/characters/zenbot/motions/dance.png",
+          "sha256": "55bc5664314c8e6464dfb2c1715961c1c6c80608fb3627ac70cf2fdf5f402cd9",
+          "mode": "RGBA",
+          "size": [
+            1117,
+            1409
+          ],
+          "alpha_bbox": [
+            13,
+            10,
+            1116,
+            1396
+          ],
+          "corner_alpha": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "transparent_pixel_fraction": 0.458265,
+          "nontransparent_edge_pixels": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "edge_alpha_max": 0,
+          "alpha_at_least_128_bbox": [
+            19,
+            13,
+            1103,
+            1393
+          ]
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "path": "assets/characters/zenbot/source/zenbot-master.png",
+      "sha256": "0f0f504c3d3e6e7fa705ba7e506cf2281c4ef0e45f9f863a403b536e79f500b0",
+      "mode": "RGBA",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        243,
+        51,
+        1796,
+        2036
+      ],
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixel_fraction": 0.555782,
+      "nontransparent_edge_pixels": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "edge_alpha_max": 0,
+      "alpha_at_least_128_bbox": [
+        243,
+        51,
+        1796,
+        2036
+      ]
+    },
+    {
+      "path": "assets/characters/zenbot/source/zenbot-master-trim.png",
+      "sha256": "4184b959a41a5ff2d8dbb8a67f0b8e6216c4c49f857879b58a967e54a6db0e68",
+      "mode": "RGBA",
+      "size": [
+        1601,
+        2021
+      ],
+      "alpha_bbox": [
+        24,
+        24,
+        1577,
+        2009
+      ],
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixel_fraction": 0.424165,
+      "nontransparent_edge_pixels": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "edge_alpha_max": 0,
+      "alpha_at_least_128_bbox": [
+        24,
+        24,
+        1577,
+        2009
+      ]
+    }
+  ],
+  "limits": [
+    "File checks do not establish style, pose, text, or unclipped silhouettes. Visual checks are recorded in PROJECT_STATE.md."
+  ]
+}

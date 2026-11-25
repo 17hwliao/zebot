@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Codex Pet</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <svg id="stage" aria-hidden="true">
+      <g id="petG"></g>
+      <ellipse id="shadow" class="shadow"></ellipse>
+      <g id="fxG"></g>
+    </svg>
+    <div id="bubble" class="bubble" role="status" aria-live="polite"></div>
+    <div id="voice" class="voice" aria-hidden="true">
+      <span class="voice-dot"></span>
+      <span class="voice-label">正在听</span>
+    </div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,233 @@
+{
+  "parts": {
+    "hair_back": {
+      "box": [
+        15.1583,
+        -33.0987,
+        225.6835,
+        234.3875
+      ],
+      "parent": "hair_back",
+      "z": 10
+    },
+    "leg_l": {
+      "box": [
+        103.8566,
+        176.4202,
+        26.3194,
+        45.1781
+      ],
+      "parent": "leg_l",
+      "z": 20
+    },
+    "leg_r": {
+      "box": [
+        139.5018,
+        176.4202,
+        24.6615,
+        45.1781
+      ],
+      "parent": "leg_r",
+      "z": 20
+    },
+    "shoe_l": {
+      "box": [
+        98.0539,
+        213.7232,
+        37.9248,
+        41.0334
+      ],
+      "parent": "leg_l",
+      "z": 22
+    },
+    "shoe_r": {
+      "box": [
+        137.4294,
+        213.7232,
+        35.0234,
+        38.5465
+      ],
+      "parent": "leg_r",
+      "z": 22
+    },
+    "skirt_back": {
+      "box": [
+        91.8368,
+        139.7388,
+        85.797,
+        46.2143
+      ],
+      "parent": "skirt",
+      "z": 28
+    },
+    "torso": {
+      "box": [
+        107.1725,
+        87.3073,
+        62.379,
+        79.1654
+      ],
+      "parent": "chest",
+      "z": 36
+    },
+    "skirt_front": {
+      "box": [
+        91.8368,
+        139.7388,
+        85.797,
+        46.2143
+      ],
+      "parent": "skirt",
+      "z": 40
+    },
+    "jacket_front": {
+      "box": [
+        107.3797,
+        105.7516,
+        62.1718,
+        57.4053
+      ],
+      "parent": "chest",
+      "z": 44
+    },
+    "badge": {
+      "box": [
+        131.6267,
+        116.1136,
+        21.1384,
+        13.2633
+      ],
+      "parent": "chest",
+      "z": 46
+    },
+    "arm_l": {
+      "box": [
+        77.33,
+        109.4819,
+        37.5103,
+        54.0894
+      ],
+      "parent": "arm_l",
+      "z": 50
+    },
+    "arm_r": {
+      "box": [
+        158.1533,
+        110.1036,
+        26.3194,
+        51.3953
+      ],
+      "parent": "arm_r",
+      "z": 50
+    },
+    "hand_l": {
+      "box": [
+        72.3563,
+        155.9035,
+        20.1022,
+        14.2995
+      ],
+      "parent": "arm_l",
+      "z": 54
+    },
+    "hand_r": {
+      "box": [
+        173.0745,
+        154.0383,
+        13.6778,
+        12.0199
+      ],
+      "parent": "arm_r",
+      "z": 54
+    },
+    "face_base": {
+      "box": [
+        90.1789,
+        -33.0987,
+        93.0504,
+        127.0376
+      ],
+      "parent": "head",
+      "z": 60
+    },
+    "hair_front": {
+      "box": [
+        83.5472,
+        56.0142,
+        106.3137,
+        61.9645
+      ],
+      "parent": "head",
+      "z": 62
+    },
+    "headphones": {
+      "box": [
+        114.8403,
+        91.0376,
+        48.0795,
+        21.5529
+      ],
+      "parent": "head",
+      "z": 64
+    },
+    "hair_ornament": {
+      "box": [
+        68.2115,
+        -15.4833,
+        127.8666,
+        78.3364
+      ],
+      "parent": "head",
+      "z": 66
+    }
+  },
+  "expressions": 19,
+  "motions": 18,
+  "composite": {
+    "alphaPixels": 917248,
+    "referenceAlphaPixels": 917415,
+    "differingPixels": 6516,
+    "meanAbsDiff": 0.6459116103399225,
+    "maxAbsDiff": 255
+  },
+  "hashes": {
+    "parts/hair-back.png": "2db09edd4a6d698841b8b0c3e5629bad227cc2407474607e25374427edb008da",
+    "parts/leg-l.png": "b5866e0337858ef8c3374d331a42fc298ba740affa8ad07873a3813475ca5390",
+    "parts/leg-r.png": "f5d22088d99b8a496e33bbb147bf409da9eae31cc7fb8b377fee4c0393529b03",
+    "parts/shoe-l.png": "7f54d00a4331f67da8c1c84d8426a29c6614e63dcc1d10dbbea67e9f51587ee0",
+    "parts/shoe-r.png": "7b8c1a1d7ca9e97aa8b94d0bfce75af6a627cc17ea3a5f65faa2f69072992125",
+    "parts/skirt-back.png": "dd33c64f879be90e0572bd998766537a4666ac75d0f937b6696d4e6502da2dc7",
+    "parts/skirt-front.png": "755bb9ead16fd4c3a1abe77e89f1feee74335a793d58b2291d658ea7becfca2a",
+    "parts/torso.png": "0af5045b9ca91e3f2e8cf0a889359fca74bd35b3c74a856994c9e28ca65a5dce",
+    "parts/jacket-front.png": "c2a801bd0b69eaf592355d155a25533a502d45b8673b44f45973fb02d26dfb8b",
+    "parts/badge.png": "086d889d4fbd141680a7fe41b69d8ea0f31e2d654e33ebd7d33a6faa8ed63b11",
+    "parts/arm-l.png": "54aa92d8d2e9903c002abe0dbb6fa9776011aa9eed12d2492c26fba41bf05a56",
+    "parts/arm-r.png": "223934b91601ba3349d3e8e57b61a58a02227365792b68c3dfdc086de8acaa52",
+    "parts/hand-l.png": "f1923e92fcc09256ac72286d4d9722a903f1cb125b844dc6124d58144e5c8b27",
+    "parts/hand-r.png": "ee344a106ce7fd5786782b86bda060e4d88b303bd922726ec8044c4275d3ba0a",
+    "parts/hair-front.png": "4598fe7dbe1fd7b789d665457a03e28fd5d8e372998d3142cc7eb2c551c29a66",
+    "parts/headphones.png": "c460bb3f3f7cdfe4e8a337d4f5fbd73fafe1a362b79387ccec23917480f6b3ff",
+    "parts/hair-ornament.png": "c58cfcbe1ae503fdc10f923f11a2abd1218399ac3fd04242f2406d520d1c3f08",
+    "parts/face-base.png": "afb0a860cbbee7affbaf18000f12afdcf6a15194d6a2e28cfa2f3dbdb0309da7",
+    "expressions/neutral.png": "afb0a860cbbee7affbaf18000f12afdcf6a15194d6a2e28cfa2f3dbdb0309da7",
+    "expressions/happy.png": "4a02d6c8d65b09666dab3ebae0106052895528e6baa636748bc1865bd4349cf4",
+    "expressions/wink.png": "e114cb044ecd0206e426ff2be018d5f9fb6d44361b46c70325e5f14b20e2f36f",
+    "expressions/love.png": "787ef673e19ae2bcc7aeabcf94db27fe3d969450992c584ee6c42786d901746a",
+    "expressions/shy.png": "34463ae4bb6f89a3a2e0e4fce769dd967cc269bcf02069efece76b4e307669f8",
+    "expressions/surprised.png": "707b7a77c4c8a441794521f489e1d12013432666287477cd2de18f6f655e83af",
+    "expressions/angry.png": "23c61be17c707ea92f26e69aae0e785d3ae0dfa433f64fe02d8625fdfe962abd",
+    "expressions/sad.png": "429d752cb78e02d0a0a99e228d03bd544ecd7a989799f5c63a9b2c9926d1ef3a",
+    "expressions/sleepy.png": "8d8f5c821b645709842317db2fb9192db463872116c9e9d3de08abf798c4d102",
+    "expressions/thinking.png": "bd563271724c5fee956b1f648fe29c4d330155c9bc64702a798e157b3360144a",
+    "expressions/smug.png": "f7a434665847b5d364258693f65b456b7eaecfb4bd764419b4d494a3fe54cea8",
+    "expressions/pout.png": "81f8531a2ac2b6c533fe350a08a1f1d8b1a7768e3db33482a8744624ac8000db",
+    "expressions/worried.png": "8b09e6614fea6763962c953aa632370324c0293707718f910dcc08b6940e1ce7",
+    "expressions/determined.png": "655bed0e9bbff51bb21841ed3ba4e32c9c920c2d4e70a7c384108101c1222086",
+    "expressions/flustered.png": "4b023febf42af13deb47b23b5ea8311f165086b910dc8bba51521023514e10fc",
+    "expressions/scared.png": "144bb8e88e9d069575d35bd20cd82a2f559ca658378dcc8da687f86e47072121",
+    "expressions/excited.png": "ddac8a2e0ac8e5f233b00f6bfa05241bf50c6ebb708e6c56b8bdae8330871a23",
+    "expressions/cry.png": "e9de3f1948b7bb08f14be9f39d72f3f38e8208ed1d1151c65b3bff65732b59ee",
+    "expressions/confused.png": "1e883bb774e442a85e73f29c8edbd5dd2986e3c02ecefafa16a5a8f2c0700ffd",
+    "manifest.json": "dc578d974ab3aafe64d2581bb4f4774db4a4b78d75cfa7225e597d0cd639a8e1"
+  }
+}

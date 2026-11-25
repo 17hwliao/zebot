@@ -1,0 +1,9 @@
+{
+  "errors": [],
+  "phases": 8,
+  "modes": [
+    "walk",
+    "run"
+  ],
+  "fallback": false
+}
